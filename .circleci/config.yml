@@ -5,5 +5,5 @@ jobs:
       - image: circleci/node:23.1-alpine3.20
     steps:
       - checkout
-      - run npm install
-      - run npm test
+      - run: npm install
+      - run: npm test
