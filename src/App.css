@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  transition: 3s ;
 }
 
 .App-header {
@@ -11,6 +12,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  transition: 2s ;
 }
 
 .button-30 {
